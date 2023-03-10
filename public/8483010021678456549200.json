@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637106192318",
+    "project_id": "hair-style-toca-boca",
+    "storage_bucket": "hair-style-toca-boca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637106192318:android:d4ee89e06e337b97ef43ef",
+        "android_client_info": {
+          "package_name": "com.kakeanpolah.dsgnhstcbc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637106192318-fntd0ij2dv4n4rdnrk1duv909oaqvnns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoW9Sr4_s1xvwYZMAiTNlI63FOEK17d9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637106192318-fntd0ij2dv4n4rdnrk1duv909oaqvnns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
