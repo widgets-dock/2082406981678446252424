@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69938144048",
+    "project_id": "manhua-comics",
+    "storage_bucket": "manhua-comics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69938144048:android:9d1f4cde8c487b7d531ef5",
+        "android_client_info": {
+          "package_name": "com.doyanngentup.cmwhaucmcmnhua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69938144048-87m5n2g1ru98demrtchb2q5bknlre106.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRAvEQFFGMxSFVGU-wv3W_9UfuCK1qM0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69938144048-87m5n2g1ru98demrtchb2q5bknlre106.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
